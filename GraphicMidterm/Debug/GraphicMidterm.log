@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\alperen\source\repos\GraphicMidterm\GraphicMidterm\Source.c(71,7): warning C4101: 'printedArr': unreferenced local variable
+  GraphicMidterm.vcxproj -> C:\Users\alperen\source\repos\GraphicMidterm\Debug\GraphicMidterm.exe
